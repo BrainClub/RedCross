@@ -1,0 +1,85 @@
+.carousel-caption.d-none.d-md-block{
+    position: absolute;
+    left: 0%;
+    top: 2%;
+    width: 50%;
+    margin-left: 15%;
+    padding: 0;
+    text-align: left;
+}
+.content{
+    width: 980px;
+    font-size: 18px;
+    text-align: center;
+    margin: 0px auto;
+
+}
+
+.p-0{
+    padding: 0;
+}
+.logo{
+    width: 20%;
+    height: 200px;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+.carousel-item{
+    max-height: 800px;
+}
+.carousel-caption h5{
+    font-size: 5em;
+}
+
+.container-fluid{
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+.justify img{
+    max-height: 100px;
+}
+.justify h1{
+    font-size: 10px;
+}
+.justify ul{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-size: 0;
+    text-align: justify;
+}
+.justify li{
+    font-size: 20;
+    text-align: center;
+    display: inline-block;
+}
+.justify ul::after {
+    content: '';
+    width: 100%;
+    display: inline-block;
+}
+.red{
+    background-color: red;
+}
+.redline{
+
+   border-top: 1px solid rgba(255, 0, 0, 0.65) !important;
+}
+.copyright{
+    font-size: 10px;
+    color: #787878;
+}
+
+.row img{
+    border-radius: 10px;
+}
+
+.centrcontent{
+
+    font-weight: 500;
+    font-size: 1em;
+    color: red;
+}
